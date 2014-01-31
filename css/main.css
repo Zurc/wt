@@ -131,7 +131,7 @@ nav a:hover {
     padding: 30px 0;
 }
 
-.main article h1 {
+.main section h1 {
     font-size: 2em;
 }
 
@@ -182,9 +182,9 @@ nav a:hover {
    ==================== */
 
     nav a {
-        float: left;
-        width: 27%;
-        margin: 0 1.7%;
+        float: right;
+        width: 18%;
+        /* margin: 0 1.7%; */
         padding: 25px 2%;
         margin-bottom: 0;
     }
@@ -233,14 +233,14 @@ nav a:hover {
 
     nav {
         float: right;
-        width: 38%;
+        width: 58%;
     }
 
 /* ============
     WIDE: Main
    ============ */
 
-    .main article {
+    .main section {
         float: left;
         width: 57%;
     }
